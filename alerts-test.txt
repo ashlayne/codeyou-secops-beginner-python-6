@@ -1,0 +1,6 @@
+event_date,event_type,asset,indicator
+2026-01-03,login_failure,bob,8.8.8.8
+2026-01-03,login_success,alice,192.168.1.25
+2026-01-03,file_hash_detected,workstation-7,275a021bbfb6483e2f3b2ed34a59dcdf57f7e3c2efb8fe2bc5e756e508d2f5a9
+2026-01-03,dns_query,finance-laptop,ms-secure-login.net
+2026-01-03,port_scan,web-server-1,185.220.101.6
